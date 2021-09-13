@@ -1,2 +1,2 @@
-# gitt-test
-GIt function test
+# git-test
+Gtt function test
